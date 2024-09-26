@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manish-kumar-3a2a721bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-kumar-3a2a721bb" height="30" width="40" /></a>
-<a href="https://instagram.com/manish.kr498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish.kr498" height="30" width="40" /></a>
+<a href="https://instagram.com/manishdotkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishdotkr" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manish498" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish498" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manish498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manish498" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manish498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish498" height="30" width="40" /></a>
