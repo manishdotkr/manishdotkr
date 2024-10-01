@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Development and DevOps**
 
-- 👨‍💻 All of my projects are available at [**portfolio-project**](https://www.manish.kr)
+- 👨‍💻 All of my projects are available at [**project**](https://www.manish.kr/#/portfolio)
 
 - 💬 Ask me about **java, python, devOps tools and linux**
 
 - 📫 How to reach me [**portfolio**](https://www.manish.kr)
 
-- 📄 Know about my experiences [**resume**](https://resume.manish.kr)
+- 📄 Know about my experiences [**resume**](https://www.manish.kr/#/resume)
 
 - ⚡ Fun fact **I like traveling**
 
