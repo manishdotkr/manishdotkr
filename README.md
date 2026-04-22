@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishdotkr&label=Profile%20views&color=0e75b6&style=flat" alt="manishdotkr" /> </p>
 
-- 🔭 I’m currently working in **Impressico Business Solutions**
+- 🔭 I’m currently working in **Paytm**
 
-- 🌱 I’m currently learning **Development and DevOps**
+- 🌱 I’m currently learning **DevOps And Cloud**
 
-- 👨‍💻 All of my projects are available at [**project**](https://www.manish.kr/#/portfolio)
+<!-- - 👨‍💻 All of my projects are available at [**project**](https://www.manish.kr/#/portfolio) -->
 
 - 💬 Ask me about **java, python, devOps tools and linux**
 
